@@ -1,10 +1,6 @@
 #include <stdio.h>
-int main (void){
-    int i = 3;
-    while (i > 0)
-    {
-        printf("yourock\n");
-        i--;
+int main(void){
+    for(int i = 1;i<= 3;i++){
+        printf("hollachica\n");
     }
-    
 }
